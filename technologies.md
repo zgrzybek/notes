@@ -6,6 +6,7 @@
 - gcp
 - ISTIO
 - resilience4J
+- Hadoop, HDFS, Spark, Hive, Solar, big data patterns
 
 ## Articles
 
